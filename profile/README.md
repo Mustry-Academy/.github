@@ -23,4 +23,4 @@ Filter all course repos with the GitHub topic [`mustry-academy`](https://github.
 ## Get in touch
 
 - Website: [mustrysolutions.com](https://mustrysolutions.com/)
-- Course enquiries: academy@mustrysolutions.com
+- Course enquiries: info@mustrysolutions.com
