@@ -1,6 +1,8 @@
 <div align="center">
 
-# Mustry Academy
+<img src="assets/banner.svg" alt="Mustry Academy: hands-on training for senior Ignition teams" width="100%">
+
+<br><br>
 
 [![Website](https://img.shields.io/badge/mustrysolutions.com-295EF6?style=for-the-badge&logo=safari&logoColor=white)](https://mustrysolutions.com)
 [![Email](https://img.shields.io/badge/info@mustrysolutions.com-10172A?style=for-the-badge&logo=maildotru&logoColor=96B0FB)](mailto:info@mustrysolutions.com)
