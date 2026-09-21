@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Security vulnerability
+    url: https://github.com/Mustry-Academy/.github/blob/main/SECURITY.md
+    about: Please report security issues privately by email, not in a public issue.
+  - name: Course enquiries
+    url: https://mustrysolutions.com/courses/cicd
+    about: Questions about upcoming courses, enrolment, or commercial training.
+  - name: Mustry Solutions (consulting & open source)
+    url: https://github.com/Mustry-Solutions
+    about: For consulting questions and our public tools, visit the Solutions org.
