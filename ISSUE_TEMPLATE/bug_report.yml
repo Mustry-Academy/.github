@@ -25,7 +25,7 @@ body:
     attributes:
       label: Lab or repository
       description: Lab number and name, or the repository where you hit the issue.
-      placeholder: Lab 03 — cicd-lab-03-github-actions
+      placeholder: Lab 03, labs/03-github-actions
     validations:
       required: true
   - type: input

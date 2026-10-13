@@ -25,25 +25,16 @@ Mustry Academy is the training arm of [Mustry Solutions](https://github.com/Must
 |---|---|
 | [**CI/CD for Ignition**](https://mustrysolutions.com/courses/cicd) | Git, GitHub Actions, Docker, and multi-gateway deploys for Ignition 8.3 |
 
-Public lab repos for that course:
+Public repos for that course:
 
 | Repository | Description |
 |---|---|
-| [**cicd-preflight**](https://github.com/Mustry-Academy/cicd-preflight) | Environment validation scripts — run before Day 1 |
-| [**cicd-lab-01-git-fundamentals**](https://github.com/Mustry-Academy/cicd-lab-01-git-fundamentals) | Git fundamentals through the object model |
-| [**cicd-lab-02-branching-and-prs**](https://github.com/Mustry-Academy/cicd-lab-02-branching-and-prs) | Branching strategies and pull requests |
-| [**cicd-lab-03-github-actions**](https://github.com/Mustry-Academy/cicd-lab-03-github-actions) | CI linting and GitHub Actions workflows |
-| [**cicd-lab-04-ignition-file-based-deploy**](https://github.com/Mustry-Academy/cicd-lab-04-ignition-file-based-deploy) | Ignition 8.3 file structure and file-based deploys |
-| [**cicd-lab-05-ignition-image-based-deploy**](https://github.com/Mustry-Academy/cicd-lab-05-ignition-image-based-deploy) | Image-based deploys and artifact promotion |
-| [**cicd-lab-06-secrets-db-and-modules**](https://github.com/Mustry-Academy/cicd-lab-06-secrets-db-and-modules) | Secrets, DB provisioning, and module packaging |
-| [**cicd-lab-07-multi-gateway-deploy**](https://github.com/Mustry-Academy/cicd-lab-07-multi-gateway-deploy) | Multi-gateway deploys |
+| [**cicd-for-ignition**](https://github.com/Mustry-Academy/cicd-for-ignition) | The course repo: preflight, all seven labs, their slides, exercises and docs. Fork it once before Day 1. |
+| [**demo-oatmakers**](https://github.com/Mustry-Solutions/demo-oatmakers) | The Oatmakers demo behind cloud.mustrysolutions.com, and the shared production repo for Lab 07 |
 
 ## How our repos are organised
 
-- `<course>-masterclass` — the course hub (curriculum, slides, exercise index)
-- `<course>-lab-XX-…` — individual lab repos used during the course
-- `<course>-template-…` — starter templates you can fork for your own projects
-- `<course>-preflight` — environment validation scripts run before the course starts
+- `<course>-for-ignition`: one repo per course, with every lab in its own folder under `labs/`
 - `academy-handbook` — shared assets (Slidev theme, certificate templates, CI workflows)
 
 Filter all course repos with the GitHub topic [`mustry-academy`](https://github.com/search?q=topic%3Amustry-academy+org%3Amustry-academy&type=repositories).
